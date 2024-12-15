@@ -131,7 +131,8 @@ urlpatterns = [
 # OUTPUT:
 
 ![Screenshot 2024-12-11 201847](https://github.com/user-attachments/assets/6fb6e329-d2e0-4715-a2e6-f7c14f513aeb)
-
 ![Screenshot 2024-12-11 202024](https://github.com/user-attachments/assets/e01bdb9e-3db7-4518-affd-cbe84b2d1b0d)
+![Screenshot 2024-12-16 011810](https://github.com/user-attachments/assets/912bfc7c-3b99-42b8-b18a-2241fecd254b)
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
